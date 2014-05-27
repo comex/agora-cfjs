@@ -1,0 +1,31 @@
+statement: whether that is a CFJ
+events:
+    -
+        date: 2014-04-24 09:36:02Z
+        type: called
+        who: Roujo
+    -
+        date: 2014-04-28 05:03:39Z
+        type: assigned
+        who: LiberonScien
+    -
+        date: 2014-05-23 20:37:38Z
+        type: recused
+    -
+        date: 2014-05-23 20:37:38Z
+        type: assigned
+        who: Fool
+exhibits:
+    -
+        mid: <1398331998.94752.YahooMailBasic@web172805.mail.ir2.yahoo.com>
+        text: |-
+            I CFJ on whether that is a CFJ. Arguments against: it doesn't
+            clearly specify a statement. Arguments for: most experienced
+            players can deduce the statement from context.
+    -
+        mid: <alpine.LRH.2.01.1404240452001.22164@hymn01.u.washington.edu>
+        text: |-
+            FALSE.  It was sent to Discussion.
+
+
+
