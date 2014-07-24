@@ -1,0 +1,40 @@
+statement: If Rule 1789 were repealed, the obligation on the Registrar to note the method of deregistration of players deregistered by Writ of FAGE would remain.
+
+events:
+
+    -
+        date: 2014-06-19 23:59:36
+        type: called
+        who: scshunt
+
+    -
+        date: 2014-06-30 13:44:22
+        type: assigned
+        who: Henri
+
+
+exhibits:
+
+    -
+        who: scshunt
+        mid: <CAMQXVwXLPBXmHvrTHfr+eBfnyX_34nbsz=DpFg6f+s=+4p-BZg@mail.gmail.com>
+        date: 2014-06-19 23:59:36
+        text: |-
+            The wording of the rule implies that the rule instantaneously creates an
+            ongoing obligation, rather than continuously creating an instantaneous
+            obligation. Can such an obligation persist beyond the rule's expiry?
+    -
+        who: Ørjan
+        mid: <alpine.DEB.2.02.1407010010390.9872@sprocket.nvg.ntnu.no>
+        text: |-
+            On Mon, 30 Jun 2014, Kerim Aydin wrote:
+            > CFJ 3419 (scshunt): "If Rule 1789 were repealed, the obligation on the
+            > Registrar to note the method of deregistration of players deregistered
+            > by Writ of FAGE would remain."
+            >
+            > is hereby assigned to Henri.
+            And I'd have thought that would go to Murphy again?
+            Greetings,
+            Ørjan.
+
+
