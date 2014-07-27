@@ -12,6 +12,39 @@ events:
         type: assigned
         who: scshunt
 
+
+    -
+        date: 2014-06-30 16:33:35
+        type: judged
+        judgement: DISMISS
+
+    -
+        date: 2014-06-30 17:08:13
+        type: reconsider?
+        who: G.
+
+    -
+        date: 2014-06-30 17:21:03
+        type: reconsider?
+        who: ais523
+
+    -
+        date: 2014-06-30 17:27:24
+        type: reconsider!
+        who: Roujo
+
+    -
+        date: 2014-07-25 16:28:16
+        type: recused
+    -
+        date: 2014-07-25 17:12:02
+        type: assigned
+        who: Tiger
+    -
+        date: 2014-07-27 08:27:37
+        type: judged
+        judgement: DISMISS
+
 exhibits:
     -
         who: G.
@@ -73,3 +106,65 @@ exhibits:
             different communities will attempt to use the same, globally-namespaced,
             name for different things, confusing searches.)
 
+    -
+        who: scshunt
+        mid: <CAMQXVwUqXAQ5GR5RcJnEkvs_0MkU3nK5R9iJAyL=tdVdcbsGRA@mail.gmail.com>
+        date: 2014-06-30 16:33:35
+        text: |-
+            I judge both DISMISS with arguments "[citation needed]".
+            -scshunt
+
+
+    -
+        who: G.
+        mid: <alpine.LRH.2.01.1406301430280.8556@hymn02.u.washington.edu>
+        text: |-
+            Gratuity:  If there is something actually missing
+            from the case that demands a Dismiss, it should be stated clearly what
+            is missing.  -G.
+
+    -
+        who: Tiger
+        mid: <CAOXVoMfbnUoV5ARfkUXT9XduJrvmr0=-5_j-L_tFWW9FNcfe+w@mail.gmail.com>
+        date: 2014-07-27 08:27:37
+        text: |-
+            As per my own judgment in CFJ 3416, a signature pattern was allowed by
+            the (now repealed) Rule 2428. So the first name, "offense most dire",
+            is judged to be a valid "name", in the context of rule 2428:
+            ----
+            Rule 2428/0 (Power=1)
+            Mandatory Identification
+                  When publishing a message to the fora, the author must
+                  explicitly sign eir name at the end of the message.
+                  Failure of a person to sign eir name on eir published messages
+                  in an explicit manner is the Class-2 crime of Incognito.
+            ----
+            Does that mean omd is "known by" that name? Arguably. Is e "known by"
+            the name "oddly marked derriere", which e has not used emself to sign
+            a message (to my knowledge)? I would say not.
+            However, I also think this distinction is irrelevant to the game. Even
+            with Rule 2428 in the ruleset, the two rules which come closest to,
+            excuse my French, giving a damn, would be it and Rule 2139:
+            ----
+            Rule 2139/7 (Power=2)
+            The Registrar
+                  The Registrar is an office; its holder is responsible for
+                  keeping track of players.
+                  The Registrar's report includes:
+                  a) A list of all players, including information sufficient to
+                     identify and contact each player.
+                  b) [...]
+            ----
+            A case that might appear, would be if the Registrar attempted to list
+            omd -omly- as "oddly marked derriere", along with an email address.
+            Would that, then, be "information sufficient to identify em"? Yes,
+            this is related to whether or not e is "known as" that name. However,
+            in the end I believe it is a different question, and one that is
+            dependent on the context in which it is asked, so I will not try to
+            answer it now.
+            I judge CFJ 3421 and 3422 by DISMISS, both.
+            The short exchange in the caller's evidence is a nice illustration of
+            the situation: some players agree that they "know [omd] as" those
+            names, while some don't. "known as" by whom? The wording in the CFJ
+            does not say, and there is no relevant situation in play or wording in
+            the rules for which it matters at all. As previously stated: DISMISS.

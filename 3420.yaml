@@ -10,6 +10,31 @@ events:
         date: 2014-06-30 15:15:28
         type: assigned
         who: Sprocklem
+    -
+        date: 2014-07-23 23:14:50
+        type: judged
+        judgement: TRUE
+
+    -
+        date: 2014-07-23 23:51:12
+        type: reconsider?
+        who: omd
+
+    -
+        date: 2014-07-24 08:33:59
+        type: reconsider?
+        who: ais523
+
+    -
+        date: 2014-07-24 09:19:38
+        type: reconsider!
+        who: Roujo
+
+    -
+        date: 2014-07-24 18:11:42
+        type: judged
+        judgement: FALSE
+
 
 exhibits:
 
@@ -33,3 +58,38 @@ exhibits:
             publishing a revision has to be done specifically in response to the
             CoE, or whether even unrelated revisions count.
 
+    -
+        who: Sprocklem
+        mid: <53D07A37.6050608@gmail.com>
+        date: 2014-07-23 23:14:50
+        text: |-
+            RELEVANT RULE BITS
+            > b) A claim of error, appropriate for matters of fact.  The
+            >    publisher of the original document SHALL (if e was required
+            >    to publish that document) or SHOULD (otherwise) do one of
+            >    the following in a timely fashion:
+            >
+            >        i) Deny the claim (causing it to cease to be a doubt).
+            >       ii) Publish a revision.
+            >      iii) Initiate an inquiry case regarding the truth of the
+            >           claim (if the subject is actually a matter of law),
+            >           or cite a relevant existing inquiry case.
+            JUDGE'S ARGUMENTS
+            There is not a lot to say for this one. The purpose of a CoE is to
+            prevent an erroneous document from self-ratifying. The published
+            revision fixed the problem mentioned in the the CoE, whether or not
+            Henri explicitly mentions that e is responding to a CoE. Requiring em to
+            send an identical revision specifically in response to the CoE makes no
+            sense.
+            I judge CFJ 3420 TRUE
+
+    -
+        who: Sprocklem
+        mid: <53D184AD.5080401@gmail.com>
+        date: 2014-07-24 18:11:42
+        text: |-
+            And this is why I should not do anything when I'm tired.
+            Because the purpose of the CoE is to get it fixed (if it is wrong),
+            because the changes were unrelated to the error, and because it was in
+            no way in response to the CoE:
+            I judge CFJ 3420 FALSE 
