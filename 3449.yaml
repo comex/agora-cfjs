@@ -1,0 +1,32 @@
+statement: I possess the patent title "Head of the Agoran Ceremonial Mint".
+events:
+    -
+        date: 2015-07-15 22:58:07
+        type: called
+        who: scshunt
+    -
+        date: 2015-07-21 15:55:44
+        type: assigned
+        who: aranea
+exhibits:
+    -
+        who: ais523
+        mid: <1437011890.18328.20.camel@adf.bham.ac.uk>
+        text: |-
+            I think you can plausibly argue that the referent of "its" in rule 106
+            is ambiguous; if it refers to the decision rather than the rule, nothing
+            is broken.
+            Alternatively, you're trying to take the minimum of 4 and an undefined
+            value. I'd have thought the most sensible resolution of this situation
+            is to calculate the result as 4.
+    -
+        who: scshunt
+        mid: <CAMQXVwVh40Kr+Q-FDNQpzfKnL-iTzXQm3SxAJnFVbh32qp9gmA@mail.gmail.com>
+        date: 2015-07-15 22:58:07
+        text: |-
+            As comex pointed out in the discussion forum, Proposal 7448 was
+            submitted without an AI and purported to award me that Title, but was
+            assumed to have failed to do so due to insufficient AI.
+            If ais523's argument that the "minimum of 4 and its adotion index" is
+            in fact 4, however, it succeeded.
+
