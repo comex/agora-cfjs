@@ -8,6 +8,38 @@ events:
         date: 2015-07-21 15:55:44
         type: assigned
         who: aranea
+    -
+        date: 2015-07-28 12:36:44
+        type: judged
+        judgement: "FALSE"
+
+    -
+        date: 2015-07-28 12:50:17
+        type: reconsider?
+        who: scshunt
+
+    -
+        date: 2015-07-28 16:20:27
+        type: reconsider?
+        who: omd
+
+    -
+        date: 2015-07-29 07:59:18
+        type: reconsider?
+        who: aranea
+
+    -
+        date: 2015-07-29 15:36:03
+        type: reconsider!
+        who: G.
+
+    -
+        date: now
+        type: recused
+    -
+        date: now
+        type: assigned
+        who: Tekneek
 exhibits:
     -
         who: ais523
@@ -29,4 +61,39 @@ exhibits:
             assumed to have failed to do so due to insufficient AI.
             If ais523's argument that the "minimum of 4 and its adotion index" is
             in fact 4, however, it succeeded.
+
+    -
+        who: aranea
+        mid: <20150728183642.28484ba2@gentp.lnet>
+        date: 2015-07-28 12:36:44
+        type: judgement
+        text: |-
+            Note: I've had some troubles finding a ruleset from Jun 2013 (when the
+            resolution of proposal 7448 took place). I believe the relevant rules
+            cited below existed back then, but I'm not 100% sure.
+            "its adoption index" in R106 refers to the proposal, not to the
+            decision, as the other "its" and the "it" in the same sentence also
+            refer to the proposal. So if a proposal doesn't has an adoption index
+            of "none", this results in fact in the power of the proposal being set
+            to the minimum of four and "none".
+            I agree with ais523's interpretation that the the minimum of four and
+            none is four; mathematically, this seems to make sense: If we assume
+            {'none'} = {} and "minimum of a and b := min {a,b}", then "minimum of
+            none and four" evaluates to min {'none',4} = min {4} = 4.
+            However, I don't believe proposal 7448's adoption index actually _was_
+            'none' at the time R106 was applied to it. According to R2034,
+            "A public message purporting to resolve an Agoran decision constitutes
+            self-ratifying claims that [..] (if the indicated outcome was to adopt
+            a proposal) such a proposal existed, was adopted, and took effect.".
+            The message resolving the relevant decision
+            (https://www.mail-archive.com/agora-official@agoranomic.org/msg06802.html)
+            clearly indicated the AI of proposal 7448 as 1. Nobody objected, so the
+            claim self-ratified and caused p7748's AI to become 1 "at the time the
+            ratified document was published" according to R1551, which I believe to
+            be before the application of R106.
+            Therefore, R016 "saw" a proposal with an AI of 1 and subsequently set
+            the power of the proposal to 1 before causing it to take effect; so
+            p7448 had in fact insufficient power to award an patent title.
+            I judge FALSE and award myself a Blue Ribbon (I'm still 3h20 short of
+            the deadline!).
 
