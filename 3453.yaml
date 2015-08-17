@@ -11,6 +11,10 @@ events:
         date: 2015-08-17 18:02:41
         type: assigned
         who: omd
+    -
+        date: 2015-08-17 18:05:39
+        type: judged
+        judgement: TRUE
 
 exhibits:
     -
@@ -30,4 +34,10 @@ exhibits:
             prevent scam wins interfering with the scoring system, while still
             considering the wins to be wins. This seems to be the same sort of
             thing.)
-
+    -
+        who: omd
+        mid: <CAPM5UJ1NG7JfcVmEC8h6TXN96MHBS9XD99PHw=5iqprcdzRNNw@mail.gmail.com>
+        date: 2015-08-17 18:05:39
+        type: judgement
+        text: |-
+            TRUE.  Nobody initiated a new Era.
