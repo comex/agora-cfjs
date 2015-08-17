@@ -34,12 +34,19 @@ events:
         who: G.
 
     -
-        date: now
+        date: 2015-08-06 01:45:32
         type: recused
     -
-        date: now
+        date: 2015-08-06 01:45:32
         type: assigned
         who: Tekneek
+    -
+        date: 2015-08-17 17:58:45
+        type: recused
+    -
+        date: 2015-08-17 17:58:45
+        type: assigned
+        who: G.
 exhibits:
     -
         who: ais523

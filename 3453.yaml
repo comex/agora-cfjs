@@ -1,0 +1,33 @@
+statement: There is a rule called "Trust Tokens".
+
+events:
+
+    -
+        date: 2015-08-17 12:29:56
+        type: called
+        who: Bucky
+
+    -
+        date: 2015-08-17 18:02:41
+        type: assigned
+        who: omd
+
+exhibits:
+    -
+        who: scshunt
+        mid: <CAMQXVwV5Fod6vGjdKwFpym1SXqJoW20F3c38b4TrYec6cGswTg@mail.gmail.com>
+        text: |-
+            Unless I'm mistaken, Trust Tokens were repealed as a result of our victory.
+
+    -
+        who: ais523
+        mid: <1439818339.6508.38.camel@adf.bham.ac.uk>
+        text: |-
+            I don't think Eras are necessarily tied to wins? Given random side scam
+            wins happening in Agora around as often as gameplay wins, it would
+            probably be a bad idea to do so.
+            (I remember the "skunk" rule we had several years ago, that was used to
+            prevent scam wins interfering with the scoring system, while still
+            considering the wins to be wins. This seems to be the same sort of
+            thing.)
+
